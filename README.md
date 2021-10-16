@@ -1,4 +1,4 @@
-This repository is to reproduce a bug of [paulmillr/chokidar](https://github.com/paulmillr/chokidar) (v3.5.2).
+This repository is to reproduce [#1165](https://github.com/paulmillr/chokidar/issues/1165) of [paulmillr/chokidar](https://github.com/paulmillr/chokidar).
 
 # Presumption
 
