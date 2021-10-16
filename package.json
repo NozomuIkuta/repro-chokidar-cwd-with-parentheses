@@ -1,0 +1,10 @@
+{
+  "name": "repro-chokidar-cwd-with-parentheses",
+  "version": "1.0.0",
+  "repository": "https://github.com/NozomuIkuta/repro-chokidar-cwd-with-parentheses.git",
+  "author": "Nozomu Ikuta <nick.0508.nick@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chokidar": "3.5.2"
+  }
+}
